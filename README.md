@@ -1,6 +1,6 @@
 # HTML_Resume
 
-This project contains a simple HTML resume file (`html_resuume.html`) that can be viewed directly in any modern web browser.
+This project contains a simple HTML resume file (`HtmlResume.html`) that can be viewed directly in any modern web browser.
 ## 📁 Project Structure
 .
 |-- 📁images
