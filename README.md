@@ -20,4 +20,7 @@ git clone https://github.com/Mayur7720/HTML_Resume.git
 cd HTML_Resume
 ```
 
-<img width="1014" height="1779" alt="HtmlResume" src="https://github.com/user-attachments/assets/45999f2f-5558-456f-b08d-d8eeff8feabd" />
+<img width="1014" height="2067" alt="HtmlResume" src="https://github.com/user-attachments/assets/9a2ba33e-fd9a-46bf-bc2e-f3ada11cd5e6" />
+
+
+
